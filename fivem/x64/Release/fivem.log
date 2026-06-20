@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\ll\Desktop\fivem\fivem\src\mem\memify.h(83,28): warning C4244: '=': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+  (compilando archivo de origen "src/Main.cpp")
+  
+C:\Users\ll\Desktop\fivem\fivem\src\mem\memify.h(105,27): warning C4244: '=': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+  (compilando archivo de origen "src/Main.cpp")
+  
+  game.cpp
+C:\Users\ll\Desktop\fivem\fivem\src\mem\memify.h(83,28): warning C4244: '=': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+  (compilando archivo de origen "src/game/game.cpp")
+  
+C:\Users\ll\Desktop\fivem\fivem\src\mem\memify.h(105,27): warning C4244: '=': conversión de 'uintptr_t' a 'DWORD'; posible pérdida de datos
+  (compilando archivo de origen "src/game/game.cpp")
+  
+  Generando código
+  130 of 2256 functions ( 5.8%) were compiled, the rest were copied from previous compilation.
+    96 functions were new in current compilation
+    85 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  fivem.vcxproj -> C:\Users\ll\Desktop\fivem\x64\Release\fivem.exe
